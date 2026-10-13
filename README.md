@@ -25,7 +25,7 @@ npm install -g @aiyiran/myclaw
 
 我维护 CLI、界面扩展、同步与调试服务，以及课程相关技能。项目重点是降低课堂使用 AI 编程工具的门槛，把作品预览、调试反馈、版本恢复和课程模板串成完整的创作流程。
 
-The source repository is being prepared for public release. Package information is available on npm.
+[Source repository](https://github.com/studyyiran/yiranclaw) · [npm package](https://www.npmjs.com/package/@aiyiran/myclaw)
 
 ## Technical focus
 
